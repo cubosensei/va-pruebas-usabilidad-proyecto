@@ -12,8 +12,8 @@ function drawCharts(){
         {"Respuesta": "1","Cantidad": 0},
         {"Respuesta": "2","Cantidad": 0},
         {"Respuesta": "3","Cantidad": 1},
-        {"Respuesta": "4","Cantidad": 1},
-        {"Respuesta": "5","Cantidad": 5}
+        {"Respuesta": "4","Cantidad": 2},
+        {"Respuesta": "5","Cantidad": 6}
       ]
     },
     "encoding": {
@@ -48,9 +48,9 @@ function drawCharts(){
       "values": [
         {"Respuesta": "1","Cantidad": 0},
         {"Respuesta": "2","Cantidad": 0},
-        {"Respuesta": "3","Cantidad": 1},
+        {"Respuesta": "3","Cantidad": 2},
         {"Respuesta": "4","Cantidad": 2},
-        {"Respuesta": "5","Cantidad": 4}
+        {"Respuesta": "5","Cantidad": 5}
       ]
     },
     "encoding": {
@@ -87,7 +87,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 1},
         {"Respuesta": "3","Cantidad": 0},
         {"Respuesta": "4","Cantidad": 2},
-        {"Respuesta": "5","Cantidad": 4}
+        {"Respuesta": "5","Cantidad": 6}
       ]
     },
     "encoding": {
@@ -124,7 +124,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 1},
         {"Respuesta": "3","Cantidad": 0},
         {"Respuesta": "4","Cantidad": 2},
-        {"Respuesta": "5","Cantidad": 4}
+        {"Respuesta": "5","Cantidad": 6}
       ]
     },
     "encoding": {
@@ -161,7 +161,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 2},
         {"Respuesta": "3","Cantidad": 1},
         {"Respuesta": "4","Cantidad": 1},
-        {"Respuesta": "5","Cantidad": 3}
+        {"Respuesta": "5","Cantidad": 5}
       ]
     },
     "encoding": {
@@ -198,7 +198,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 1},
         {"Respuesta": "3","Cantidad": 2},
         {"Respuesta": "4","Cantidad": 1},
-        {"Respuesta": "5","Cantidad": 3}
+        {"Respuesta": "5","Cantidad": 5}
       ]
     },
     "encoding": {

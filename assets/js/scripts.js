@@ -9,7 +9,7 @@ function drawCharts(){
       "values": [
         {"Respuesta": "< 15 años","Cantidad": 0},
         {"Respuesta": "15 - 20 años","Cantidad": 1},
-        {"Respuesta": "21 - 30 años","Cantidad": 6},
+        {"Respuesta": "21 - 30 años","Cantidad": 8},
         {"Respuesta": "31 - 40 años","Cantidad": 0},
         {"Respuesta": "41 - 50 años","Cantidad": 0},
         {"Respuesta": "> 50 años","Cantidad": 0}
@@ -48,9 +48,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Hombre","Cantidad": 5},
-        {"Respuesta": "Mujer","Cantidad": 2},
-        {"Respuesta": "Otro","Cantidad": 0}
+        {"Respuesta": "Hombre","Cantidad": 6},
+        {"Respuesta": "Mujer","Cantidad": 3},
       ]
     },
     "encoding": {
@@ -84,7 +83,7 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 6},
+        {"Respuesta": "Sí","Cantidad": 8},
         {"Respuesta": "No","Cantidad": 1}
       ]
     },
@@ -119,13 +118,15 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Teusaquillo","Cantidad": 1},
+        {"Respuesta": "Teusaquillo","Cantidad": 2},
         {"Respuesta": "Rafael Uribe Uribe","Cantidad": 1},
         {"Respuesta": "Bosa","Cantidad": 1},
         {"Respuesta": "Puente Aranda","Cantidad": 1},
-        {"Respuesta": "Chapinero","Cantidad": 1},
+        {"Respuesta": "Chapinero","Cantidad": 2},
         {"Respuesta": "Santa Fe","Cantidad": 1},
-        {"Respuesta": "Ns/Nr","Cantidad": 1}
+        {"Respuesta": "Ns/Nr","Cantidad": 1},
+        {"Respuesta": "Chicó","Cantidad": 0},
+        {"Respuesta": "Fontibón","Cantidad": 0}
       ]
     },
     "encoding": {
@@ -159,12 +160,15 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Chapinero","Cantidad": 1},
-        {"Respuesta": "Chicó","Cantidad": 1},
+        {"Respuesta": "Rafael Uribe Uribe","Cantidad": 0},
+        {"Respuesta": "Bosa","Cantidad": 0},
+        {"Respuesta": "Chapinero","Cantidad": 2},
+        {"Respuesta": "Chicó","Cantidad": 2},
         {"Respuesta": "Fontibón","Cantidad": 2},
         {"Respuesta": "Puente Aranda","Cantidad": 1},
         {"Respuesta": "Santa Fe","Cantidad": 1},
-        {"Respuesta": "Ns/Nr","Cantidad": 1}
+        {"Respuesta": "Ns/Nr","Cantidad": 1},
+        {"Respuesta": "Teusaquillo","Cantidad": 0},
       ]
     },
     "encoding": {
@@ -198,7 +202,7 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 7},
+        {"Respuesta": "Sí","Cantidad": 9},
         {"Respuesta": "No","Cantidad": 0}
       ]
     },
@@ -234,7 +238,7 @@ function drawCharts(){
     "data": {
       "values": [
         {"Respuesta": "Sí","Cantidad": 7},
-        {"Respuesta": "No","Cantidad": 0}
+        {"Respuesta": "No","Cantidad": 2}
       ]
     },
     "encoding": {
@@ -268,7 +272,7 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 7},
+        {"Respuesta": "Sí","Cantidad": 9},
         {"Respuesta": "No","Cantidad": 0}
       ]
     },
@@ -303,8 +307,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Correcto","Cantidad": 7},
-        {"Respuesta": "Incorrecto","Cantidad": 0}
+        {"Respuesta": "Correcto","Cantidad": 8},
+        {"Respuesta": "Incorrecto","Cantidad": 1}
       ]
     },
     "encoding": {
@@ -338,8 +342,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Correcto","Cantidad": 5},
-        {"Respuesta": "Incorrecto","Cantidad": 2}
+        {"Respuesta": "Correcto","Cantidad": 6},
+        {"Respuesta": "Incorrecto","Cantidad": 3}
       ]
     },
     "encoding": {
@@ -373,8 +377,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Correcto","Cantidad": 7},
-        {"Respuesta": "Incorrecto","Cantidad": 0}
+        {"Respuesta": "Correcto","Cantidad": 8},
+        {"Respuesta": "Incorrecto","Cantidad": 1}
       ]
     },
     "encoding": {
@@ -407,8 +411,9 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Correcto","Cantidad": 6},
-        {"Respuesta": "Incorrecto","Cantidad": 1}
+        {"Respuesta": "Correcto","Cantidad": 7},
+        {"Respuesta": "Incorrecto","Cantidad": 1},
+        {"Respuesta": "No identifica","Cantidad": 1}
       ]
     },
     "encoding": {
@@ -441,8 +446,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Correcto","Cantidad": 7},
-        {"Respuesta": "Incorrecto","Cantidad": 0}
+        {"Respuesta": "Correcto","Cantidad": 8},
+        {"Respuesta": "Incorrecto","Cantidad": 1}
       ]
     },
     "encoding": {
@@ -475,8 +480,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Correcto","Cantidad": 7},
-        {"Respuesta": "Incorrecto","Cantidad": 0}
+        {"Respuesta": "Correcto","Cantidad": 8},
+        {"Respuesta": "Incorrecto","Cantidad": 1}
       ]
     },
     "encoding": {
@@ -512,8 +517,8 @@ function drawCharts(){
         {"Respuesta": "1","Cantidad": 0},
         {"Respuesta": "2","Cantidad": 0},
         {"Respuesta": "3","Cantidad": 1},
-        {"Respuesta": "4","Cantidad": 1},
-        {"Respuesta": "5","Cantidad": 5}
+        {"Respuesta": "4","Cantidad": 2},
+        {"Respuesta": "5","Cantidad": 6}
       ]
     },
     "encoding": {
@@ -548,9 +553,9 @@ function drawCharts(){
       "values": [
         {"Respuesta": "1","Cantidad": 0},
         {"Respuesta": "2","Cantidad": 0},
-        {"Respuesta": "3","Cantidad": 1},
+        {"Respuesta": "3","Cantidad": 2},
         {"Respuesta": "4","Cantidad": 2},
-        {"Respuesta": "5","Cantidad": 4}
+        {"Respuesta": "5","Cantidad": 5}
       ]
     },
     "encoding": {
@@ -583,7 +588,7 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 7},
+        {"Respuesta": "Sí","Cantidad": 9},
         {"Respuesta": "No","Cantidad": 0}
       ]
     },
@@ -617,8 +622,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 6},
-        {"Respuesta": "No","Cantidad": 1}
+        {"Respuesta": "Sí","Cantidad": 7},
+        {"Respuesta": "No","Cantidad": 2}
       ]
     },
     "encoding": {
@@ -651,7 +656,7 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 5},
+        {"Respuesta": "Sí","Cantidad": 7},
         {"Respuesta": "No","Cantidad": 2}
       ]
     },
@@ -685,8 +690,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 5},
-        {"Respuesta": "No","Cantidad": 2}
+        {"Respuesta": "Sí","Cantidad": 6},
+        {"Respuesta": "No","Cantidad": 3}
       ]
     },
     "encoding": {
@@ -719,8 +724,8 @@ function drawCharts(){
     "height": wh2,
     "data": {
       "values": [
-        {"Respuesta": "Sí","Cantidad": 5},
-        {"Respuesta": "No","Cantidad": 2}
+        {"Respuesta": "Sí","Cantidad": 6},
+        {"Respuesta": "No","Cantidad": 3}
       ]
     },
     "encoding": {
@@ -757,7 +762,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 1},
         {"Respuesta": "3","Cantidad": 0},
         {"Respuesta": "4","Cantidad": 2},
-        {"Respuesta": "5","Cantidad": 4}
+        {"Respuesta": "5","Cantidad": 6}
       ]
     },
     "encoding": {
@@ -794,7 +799,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 1},
         {"Respuesta": "3","Cantidad": 0},
         {"Respuesta": "4","Cantidad": 2},
-        {"Respuesta": "5","Cantidad": 4}
+        {"Respuesta": "5","Cantidad": 6}
       ]
     },
     "encoding": {
@@ -831,7 +836,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 2},
         {"Respuesta": "3","Cantidad": 1},
         {"Respuesta": "4","Cantidad": 1},
-        {"Respuesta": "5","Cantidad": 3}
+        {"Respuesta": "5","Cantidad": 5}
       ]
     },
     "encoding": {
@@ -868,7 +873,7 @@ function drawCharts(){
         {"Respuesta": "2","Cantidad": 1},
         {"Respuesta": "3","Cantidad": 2},
         {"Respuesta": "4","Cantidad": 1},
-        {"Respuesta": "5","Cantidad": 3}
+        {"Respuesta": "5","Cantidad": 5}
       ]
     },
     "encoding": {
