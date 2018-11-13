@@ -1,2 +1,2 @@
-# va-pruebas-usabilidad-proyecto
-Resultados de las pruebas de usabilidad para el proyecto de Taxis Inteligentes
+# Resultados de las pruebas de usabilidad para el proyecto de Taxis Inteligentes
+Más información sobre el proyecto de Taxis Inteligentes para Visual Analytics [aquí](https://github.com/fabianheredia/Taxis_Inteligentes).
