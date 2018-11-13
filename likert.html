@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Pruebas Usabilidad | Visual Analytics</title>
+
+  <!-- Materialize CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+  <!-- Internal -->
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col s12">
+        <div class="card">
+          <div class="card-image">
+            <img src="assets/img/taxi.jpg">
+            <span class="card-title">Pruebas Usabilidad</span>
+          </div>
+          <div class="card-content">
+            <p>A continuación se detallan los resultados de las pruebas de usabilidad para el proyecto de <a href="https://fabianheredia.github.io/Taxis_Inteligentes/" target="_blank">Taxis Inteligentes</a>.</p>
+          </div>
+          <div class="card-action">
+            <a href="index.html" class="btn">Toda la Info</a>
+            <a href="likert.html" class="btn">Likert Scale</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s12">
+        <div class="card">
+          <div class="card-content">
+            <span class="card-title"><span class="badge"><i class="material-icons left">insert_chart</i></span> Tarea 1</span>
+            <div class="row">
+              <span class="card-title center">Likert Scale</span>
+              <div class="col s6">
+                <span class="card-title center">Fue fácil identificar en qué hora u horas del día hay más
+taxis en un estado determinado</span>
+                <div id="chart15" class="chart progress"><div class="indeterminate"></div></div>
+              </div>
+              <div class="col s6">
+                <span class="card-title center">Fue fácil identificar en qué puntos de la ciudad hay más
+taxis en un estado determinado</span>
+                <div id="chart16" class="chart progress"><div class="indeterminate"></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col s12">
+        <div class="card">
+          <div class="card-content">
+            <span class="card-title"><span class="badge"><i class="material-icons left">insert_chart</i></span> Tarea 2</span>
+            <div class="row">
+              <span class="card-title center">Likert Scale</span>
+              <div class="col s6">
+                <span class="card-title center">Fue fácil identificar cuál es el barrio donde se recogen más pasajeros</span>
+                <div id="chart22" class="chart progress"><div class="indeterminate"></div></div>
+              </div>
+              <div class="col s6">
+                <span class="card-title center">Fue fácil identificar cuál es el barrio donde se dejan más pasajeros</span>
+                <div id="chart23" class="chart progress"><div class="indeterminate"></div></div>
+              </div>
+            </div>
+            <div class="row"> 
+              <div class="col s6">
+                <span class="card-title center">Fue fácil identificar dónde queda el barrio se recogen más pasajeros</span>
+                <div id="chart24" class="chart progress"><div class="indeterminate"></div></div>
+              </div>
+              <div class="col s6">
+                <span class="card-title center">Fue fácil identificar dónde queda el barrio se dejan más pasajeros</span>
+                <div id="chart25" class="chart progress"><div class="indeterminate"></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="page-footer grey darken-4">
+    <div class="container">
+      <div class="row">
+        <div class="col l6 s12">
+          <h5 class="white-text">Visual Analytics</h5>
+          <p class="grey-text text-lighten-2">This visualization was developed for the <a href="http://johnguerra.co/classes/visual_analytics_fall_2018/" target="_blank">Visual Analytics</a> class (2018-20) at <a href="https://uniandes.edu.co/" target="_blank">Universidad de los Andes</a>.</p>
+        </div>
+        <div class="col l4 offset-l2 s12">
+          <h5 class="white-text">Related Content</h5>
+          <ul>
+            <li><a href="https://github.com/cubosensei/va-pruebas-usabilidad-proyecto" target="_blank">Source Code</a></li>
+            <li><a href="https://github.com/fabianheredia/Taxis_Inteligentes" target="_blank">Taxis Inteligentes</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="footer-copyright black">
+      <div class="container">
+      2018 MIT Licenced Content by <a href="https://github.com/cubosensei" target="_blank">Manuel Alvarado</a> y <a href="https://github.com/fabianheredia" target="_blank">Fabian Herefia</a>
+      </div>
+    </div>
+  </footer>
+  <!-- D3 -->
+  <script type="text/javascript" src="libraries/d3/d3.min.js"></script>
+
+  <!-- Vega Lite -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@4.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@3.0.0-rc6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@3.19.2"></script>
+
+  <!-- Internal -->
+  <script type="text/javascript" src="assets/js/scripts2.js"></script>
+</body>
